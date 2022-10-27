@@ -1,4 +1,8 @@
-# Contributing to Digital Aotearoa Projects
+---
+layout: page
+title: Get Involved
+subtitle: Help build a stronger Aotearoa!
+---
 
 Most of Digital Aotearoa projects are open source projects, and we welcome contributions of all kinds: blog posts, bug reports, and reviews of proposed changes are all welcome.
 

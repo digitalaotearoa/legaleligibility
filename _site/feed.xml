@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>PROJECTNAME a project of Digital Aotearoa</title>
+    
+    
+    <description>Project updates from Digital Aotearoa</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Project update</title>
+        <description>
+          A blog post about the project - 
+          If you want to include images place them in assets/img, but you don’t have to! Just leave out (delete) lines 5, 6, and 7 above and your post will be sans images. You can write Markdown blog posts to update people about your project. Place a new .md file in...
+        </description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>

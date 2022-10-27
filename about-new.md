@@ -1,8 +1,3 @@
----
-layout: home
-title: ##Project Name## A project of Digital Aotearoa
-subtitle: Working to...
----
 # Background
 
 This project is to explore how might we ensure all gov systems provide explainability of decisions (a requirement of OIA section 23) to ensure appealability and access to justice for all? 
