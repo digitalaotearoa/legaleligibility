@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PROJECT NAME
-subtitle: What is PROJECT NAME?
+title: Legal Eligibility
+subtitle: What is Legal Eligibility?
 ---
 
 This project has two parts:
