@@ -14,7 +14,7 @@ Everything we do must be lawful and compliant with myriad regulation and legisla
 
 # Current status
 
-We are in very early stages, and are currently focusing on creating rules as code for key govt services that people seek help for from CAB. We've received funding from the Cardano Catalyst Fund to build a proof of concept which can be shared with teh Cardano Community for how [to build Rules as Code (RAC) engines](https://cardano.ideascale.com/c/idea/402385) 
+We are in very early stages, and are currently focusing on creating rules as code for key govt services that people seek help for from CAB. We've received funding from the Cardano Catalyst Fund to build a proof of concept which can be shared with the [Cardano Catalyst Fund](https://cardanocataly.st/) for how [to build Rules as Code (RAC) engines](https://cardano.ideascale.com/c/idea/402385) 
 
 # Get involved
 
